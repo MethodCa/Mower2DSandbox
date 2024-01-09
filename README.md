@@ -9,6 +9,7 @@ The mini-game was written to test the OpenGL mathematics library GLM[^4], sprite
 
 The mini-game simulates the behainour of a electric grass mower thats moves freely throughtout a pre-defined grass area, it coliides with opbstracules and area limits. When collision is encounter the mower's direction is changed using trigonometric functions:
 
+
 # code-reference-in-readme
 
 This is a sample repo meant to show that you can reference code snippets in markdown files that are rendered on GitHub.
