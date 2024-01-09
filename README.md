@@ -3,9 +3,10 @@ OpenGL 2D sandbox minigame, written in C++ using Blit3D[^1], a lightweight frame
 
 ![image](https://github.com/MethodCa/Mower2DSandbox/assets/15893276/294a2212-2608-4a81-b013-488f9714fba5)
 
-The mini-game was written to test the OpenGL mathematics library GLM[^4], sprites, texture atllas management and game object collisions.
+The mini-game was written to test the OpenGL mathematics library GLM[^4], sprites, texture atllas management, game object collisions and camera movement.
 
 ![mower](https://github.com/MethodCa/Mower2DSandbox/assets/15893276/9168736e-7337-4152-be49-5ad6ee0d3e88)
+
 
 
 > [!NOTE]
