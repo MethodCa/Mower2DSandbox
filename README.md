@@ -1,5 +1,5 @@
 # Mower 2D Sandbox
-OpenGL 2D sandbox minigame, written in C++ using Blit3D[^1], a lightweight framework to write games using C / C++ additionally GLEW[^2] was used to help manage OpenGL extensions and GLFW2[^3] for window managemend with OpenGL contexts and managing user input.
+OpenGL 2D sandbox minigame, written in C++ using Blit3D[^1], a lightweight framework to write games using C / C++ additionally GLEW[^2] was used to help manage OpenGL extensions and GLFW2[^3] for window managemend with OpenGL and managing user input.
 
 
 > [!NOTE]
