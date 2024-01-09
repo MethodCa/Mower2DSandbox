@@ -18,6 +18,9 @@ glm::vec2 calculateDirection(float angle, float velocity, float deltaTime)
 }
 ```
 
+The mower has a battery that lasts 50 seconds, after the battery has depleted its charge the mower will return to its docking station to recharge for 5 seconds.
+
+![mowertodock](https://github.com/MethodCa/Mower2DSandbox/assets/15893276/ef005b4d-ac47-4b42-9fd2-58a206fecd25)
 
 
 > [!NOTE]
