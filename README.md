@@ -9,12 +9,8 @@ The mini-game was written to test the OpenGL mathematics library GLM[^4], sprite
 
 The mini-game simulates the behainour of a electric grass mower thats moves freely throughtout a pre-defined grass area, it coliides with opbstracules and area limits. When collision is encounter the mower's direction is changed using trigonometric functions:
 
-[glm::vec2 calculateDirection(float angle, float velocity, float deltaTime)
-{
-	float radianAngle = glm::radians(angle);
-	glm::vec2 direction = glm::vec2(sin(radianAngle), cos(radianAngle));
-	return direction * velocity * deltaTime;
-}](https://github.com/MethodCa/Mower2DSandbox/blob/990a14924eadf4eb204e810b442974c4412e2124/Blit3Dv3/main.cpp)
+https://github.com/MethodCa/Mower2DSandbox/blob/990a14924eadf4eb204e810b442974c4412e2124/Blit3Dv3/main.cpp
+
 
 
 > [!NOTE]
