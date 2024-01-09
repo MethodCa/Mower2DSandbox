@@ -1,5 +1,5 @@
 # Mower 2D Sandbox
-OpenGL 2D sandbox minigame, written in C++ using Blit3D[^1], a lightweight framework to write games using C / C++ additionally GLEW[^2] was used to help manage OpenGL extensions and GLFW2[^3] for window managemend with OpenGL and managing user input.
+OpenGL 2D sandbox minigame, written in C++ using Blit3D[^1], a lightweight framework to write games using C / C++ additionally GLEW[^2] was used to help manage OpenGL extensions and GLFW[^3] for window managemend with OpenGL and managing user input.
 
 ![image](https://github.com/MethodCa/Mower2DSandbox/assets/15893276/294a2212-2608-4a81-b013-488f9714fba5)
 
@@ -28,5 +28,5 @@ The mower has a battery that lasts 50 seconds, after the battery has depleted it
 
 [^1]: Written by Darreb Reid: [Blid3d](https://gibgezr.wixsite.com/blit3d)
 [^2]: OpenGL Extension Wrangler Library [GLEW](https://glew.sourceforge.net/)_
-[^3]: Multi-platform library for OpenGL, OpenGL ES and Vulkan development on the desktop  [GLFW](https://www.glfw.org/)
+[^3]: Multi-platform library for OpenGL, OpenGL ES and Vulkan development. [GLFW](https://www.glfw.org/)
 [^4]: OpenGL mathematics library [GLM](ttps://glm.g-truc.net/)
