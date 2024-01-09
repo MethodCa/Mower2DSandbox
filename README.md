@@ -1,7 +1,9 @@
 # Mower 2D Sandbox
 OpenGL 2D sandbox minigame, written in C++ using Blit3D[^1], a lightweight framework to write games using C / C++ additionally GLEW[^2] was used to help manage OpenGL extensions and GLFW2[^3] for window managemend with OpenGL and managing user input.
 
-The mini-game was written to test the OpenGL mathematics library GLM[^4]
+The mini-game was written to test the OpenGL mathematics library GLM[^4], sprites, texture atllas management and game object collisions.
+![image](https://github.com/MethodCa/Mower2DSandbox/assets/15893276/268e930e-2e97-4e34-abe2-2ad0cf110407)
+
 
 
 > [!NOTE]
@@ -10,4 +12,4 @@ The mini-game was written to test the OpenGL mathematics library GLM[^4]
 [^1]: Blit3D, written by Darreb Reid: https://gibgezr.wixsite.com/blit3d
 [^2]: GLEW - OpenGL Extension Wrangler Library https://glew.sourceforge.net/
 [^3]: GLFW - Multi-platform library for OpenGL, OpenGL ES and Vulkan development on the desktop https://www.glfw.org/
-[^4]: GL ttps://glm.g-truc.net/
+[^4]: GLM ttps://glm.g-truc.net/
